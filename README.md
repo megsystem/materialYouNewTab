@@ -39,7 +39,7 @@ MYNT: Material You New Tab is a versatile browser extension that personalizes yo
 
 <img src="https://i.postimg.cc/CF43Yzj1/material-you-new-Tab-poster.webp" alt="Screenshot 1" width="100%">
 
-#### 🔴 🟡 🟢 Test live: [https://prem-k-r.github.io/MaterialYouNewTab/](https://prem-k-r.github.io/MaterialYouNewTab/)
+#### 🔴 🟡 🟢 Test live: [https://megsystem.github.io/materialYouNewTab/](https://megsystem.github.io/materialYouNewTab/)
 
 ## ✨ Features
 
